@@ -23,7 +23,7 @@
 <!DOCTYPE html>
 <html>
 	<!--begin css-->
-		<link rel="stylesheet" href="file:///home/nathan/exponentswebsite/css/stylesheet-home.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="https://www.dropbox.com/s/kmrur8kb0l0omk3/stylesheet-home.css?dl=0" type="text/css" media="screen" />
 	<!--begin html-->
 	<head>
 		<title>Exponents Robotics</title>
@@ -31,7 +31,7 @@
 		<meta name="keywords" content="robotics team, homeschool, BEST, exponents, capitol best, Texas" />
  		<meta name="description" content="The Exponents robotics team in Central Texas invites homeschooled students to compete in the BEST robotics competition." />
 		
-		<a href="file:///home/nathan/exponentswebsite/Pages/home.html">
+		<a href="<!--main-->">
 			<h1>E<span style="color: #2393D1"><sup>x</sup></span>ponents Robotics</h1>
 		</a>
 	</head>
