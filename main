@@ -1,0 +1,71 @@
+<!--
+  home.html
+   
+   Copyright 2014 Nathan Tompkins <nathant101@gmail.com>
+   
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+   MA 02110-1301, USA.
+   
+   
+-->
+<!DOCTYPE html>
+<html>
+	<!--begin css-->
+		<link rel="stylesheet" href="file:///home/nathan/exponentswebsite/css/stylesheet-home.css" type="text/css" media="screen" />
+	<!--begin html-->
+	<head>
+		<title>Exponents Robotics</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="keywords" content="robotics team, homeschool, BEST, exponents, capitol best, Texas" />
+ 		<meta name="description" content="The Exponents robotics team in Central Texas invites homeschooled students to compete in the BEST robotics competition." />
+		
+		<a href="file:///home/nathan/exponentswebsite/Pages/home.html">
+			<h1>E<span style="color: #2393D1"><sup>x</sup></span>ponents Robotics</h1>
+		</a>
+	</head>
+	<body>
+		<section class="links">
+		<h3>
+				<a class="button" href="Pages/photos.html">TEAM PHOTOS</a>
+				<a class="button" id="contact" href="Pages/contact.html">CONTACT</a>
+				<a class="button" id="information" href="Pages/info.html">INFORMATION</a>
+		</h3>
+		</section>
+		<br>
+			
+			<div class="left column">
+				<p>
+				The Exponents Robotics team, sponsored by <a href="http://onedayacademy.com" target="_blank"> One Day Academy</a>, 
+				gives homeschooled middle schoolers and high schoolers a chance to compete in the <a href="http://best.eng.auburn.edu/" target="_blank">BEST Robotics</a> 
+				competitions every fall. 
+				Exponents provides a hands-on opportunity for homeschool students to experience science and engineering in a Christian atmosphere. 
+				We recognize that we have a calling to a Higher Power in all we do with our lives, including both education for engineering and science vocations.
+				Capitol BEST (Boosting Engineering Science and Technology) is a robotics contest which encourages students to pursue studies in science and engineering.
+				</p>
+			</div>
+				
+			<div class="right column">
+				<p>
+				Each year, teams must design, build, and perform specific tasks with robots built from a box of raw materials. 
+				On contest day, teams compete against each other to see which team has designed and built the best robot. 
+				Winners advance to the Texas BEST regional competition, and then, to the national BEST competition.
+				The BEST program encourages students to pursue studies and careers in engineering, science and technology and introduces
+				them to some of the engineering/scientific methods through mentoring by industry professionals and hands-on experience. 
+				The students experience real-world engineering in a fun sports-like robotics competition.
+				</p>
+			</div>
+	</body>
+</div>
+</html>
